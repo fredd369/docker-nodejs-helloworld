@@ -1,4 +1,4 @@
 {
-  "ecr": "testapp"
+  "ecr": "testapp",
   "ecr_tag": "v2"
-  }
+}
